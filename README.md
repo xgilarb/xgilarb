@@ -23,9 +23,9 @@
   <a href="https://gohugo.io/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/>
   </a>
-  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <!-- HTML/Sass -->
   <!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
