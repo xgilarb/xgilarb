@@ -18,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
   </a> -->
   <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="svelte" width="40" height="40"/>
   </a>
   <a href="https://gohugo.io/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/>
